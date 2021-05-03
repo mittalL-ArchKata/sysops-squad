@@ -15,6 +15,7 @@ seems to have worked out since all the team members are passionate about this pr
 ### Problem Definition
 In this architectural kata, the teams have been given a project to migrate an existing trouble ticketing application - SysOps Squad to a new architecture. The existing application has several issues with regards to core functionality and availability. This application is a large monolith, where any changes / fixes take too long and usually give rise to new issues.
 
+
 ### Resources
 - [Architectural Katas, April – May 2021](https://learning.oreilly.com/videos/architectural-katas-april/0636920557906)
 - [Miro](https://miro.com/app/board/) for diagrams
